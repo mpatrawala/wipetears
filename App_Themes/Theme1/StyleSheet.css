@@ -1,0 +1,74 @@
+﻿body {
+    background-image:url('http://localhost:3568/images/grid_@2X.png');
+   
+}
+
+
+#wrapper {
+background-color:white;
+width:960px;
+height:1080px;
+margin:0 auto;
+border:1px #808080;
+}
+
+.image {
+
+height:110px;
+}
+#banner {
+width:940px;
+height:110px;
+margin:0 auto;
+
+/*border:1px solid #000;*/
+}
+
+.line-separator {
+height:1px;
+margin-top:20px;
+background:#0a1863;
+margin:0 auto;
+width:940px;
+border-bottom:1px solid #808080;
+
+}
+#cssmenu {
+width:940px;
+margin:0 auto;
+height:30px;
+margin-top:10px;
+margin-bottom:40px;
+}
+
+#slideshowholder {
+width:400px;
+float:left;
+/*border:1px solid #000;*/
+height:400px;
+margin:0 auto;
+margin-left:10px;
+margin-right:auto;
+margin-bottom:10px;
+}
+
+#banner1 {
+width:490px;
+float:right;
+height:150px;
+/*border:1px solid #000;*/
+margin-right:20px;
+background-image:url('http://localhost:3568/images/wipebanner.PNG');
+}
+
+#banner2 {
+
+width:490px;
+float:right;
+height:230px;
+margin-top:20px;
+/*border:1px solid #000;*/
+margin-right:20px;
+background-image:url('http://localhost:3568/images/banner2.PNG')
+}
+
